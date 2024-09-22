@@ -1,19 +1,22 @@
 ## Hi there 👋
 
-<div>
+<table>
+  <tr>
+    <td>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firelike">
-</div>
+</td>
 
-<div>
+<td>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=firelike&show_icons=true">
-</div>
-
-&nbsp;
-&nbsp;
-&nbsp;
-<div>
+</td>
+  </tr>
+  
+<tr>
+  <td>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=firelike">
-</p>
+</td>
+</tr>
+</table>
 
 <!--
 **firelike/firelike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
