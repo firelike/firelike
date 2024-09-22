@@ -3,7 +3,8 @@
 
 [![Firelike's GitHub stats](https://github-readme-stats.vercel.app/api?username=firelike)](https://github.com/firelike)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firelike)](https://github.com/firelike)
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=firelike">
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=firelike)](https://github.com/firelike)
+
 
 <!--
 **firelike/firelike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
