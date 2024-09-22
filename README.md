@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="left">
-[![Firelike's GitHub stats](https://github-readme-stats.vercel.app/api?username=firelike&show_icons=true)](https://github.com/firelike)
+<img src="https://github-readme-stats.vercel.app/api?username=firelike&show_icons=true">
 </p>
 
 <p align="left">
