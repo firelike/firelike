@@ -4,11 +4,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=firelike&show_icons=true">
 </p>
 
-<p align="left">
+<p align="right">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firelike">
 </p>
 
-<p align="right">
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=firelike">
 </p>
 
