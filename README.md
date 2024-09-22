@@ -1,15 +1,15 @@
 ## Hi there 👋
 
-<p>
+<div>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firelike">
-</p>
+</div>
 
-<p>
+<div>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=firelike&show_icons=true">
-</p>
+</div>
 
 
-<p>
+<div>
   &nbsp;
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=firelike">
 </p>
