@@ -2,8 +2,9 @@
 
 [![Firelike's GitHub stats](https://github-readme-stats.vercel.app/api?username=firelike&show_icons=true)](https://github.com/firelike)
 
+<p align="left">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firelike)](https://github.com/firelike)
-
+</p>
 ![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=firelike)
 
 <!--
