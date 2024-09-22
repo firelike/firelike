@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firelike)](https://github.com/firelike)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firelike">
 </p>
 
 <p align="right">
-![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=firelike)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=firelike">
 </p>
 
 <!--
