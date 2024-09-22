@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-[![Firelike's GitHub stats](https://github-readme-stats.vercel.app/api?username=firelike&show_icons=true)](https://github.com/firelike/)
+[![Firelike's GitHub stats](https://github-readme-stats.vercel.app/api?username=firelike&show_icons=true)](https://github.com/firelike)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firlike)](https://github.com/firelike)
 
 ![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=firelike&)
 
