@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firelike">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=firelike&show_icons=true">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firelike)](https://github.com/firelike)
+[![Firelike's GitHub stats](https://github-readme-stats.vercel.app/api?username=firelike)](https://github.com/firelike)
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=firelike">
 
 <!--
