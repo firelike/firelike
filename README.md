@@ -8,7 +8,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=firelike&show_icons=true">
 </div>
 
-
+&nbsp;
+&nbsp;
 <div>
   &nbsp;
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=firelike">
